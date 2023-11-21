@@ -1,0 +1,3 @@
+pip install librosa numpy
+pip install flet
+pip install pillow
